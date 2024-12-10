@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "smarthon-smartcity-kit": "github:smarthon/pxt-smartcity#v0.1.49",
+        "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v5.2.10"
     },
     "files": [
         "main.blocks",
